@@ -20,8 +20,13 @@ there is sound playing once timer reaches 0
 ## Frameworks/Features used
 
 AVAudioPlayer from AVFoundation to play audio
+
 Timer()
+
 UIProgressView as progress bar
+
 UILabel
+
 UIButton
+
 AutoLayout (Stack View, View, Constrains)
